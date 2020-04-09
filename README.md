@@ -16,9 +16,16 @@ Som kund hos Booksy kan du se alla produkter genom att ange din (giltiga)token s
 
 Både Admin och Kund loggas ut automatiskt efter 60 minuter och en kunds varukorg är endast giltig under denna tid.
 
+Inlogg 
+Username: admin
+Password: admin
+
+Username: kund
+Password: kund
+
 ## Planering (24/3-2020)
-End-points:
-v1
+End-points
+    v1
     - products/
         -view - Se alla produkter
         -select - Se vald produkt
@@ -39,15 +46,6 @@ v1
 
 
 ## Databasen 
-
-Inlogg 
-Admin kan lägga till, ta bort och ändra produkter
-Username: admin
-Password: admin
-
-Kund kan endast se produkter och skapa en kundvagn och checka ut
-Username: kund
-Password: kund
 
     Tabeller
 
