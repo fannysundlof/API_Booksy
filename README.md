@@ -18,8 +18,8 @@ Både Admin och Kund loggas ut automatiskt efter 60 minuter och en kunds varukor
 
 ## Planering (24/3-2020)
 End-points:
-v1/
-        -products/ -- endast med giltig token
+v1
+    - products/
         -view - Se alla produkter
         -select - Se vald produkt
         -sort - sortera produkter
